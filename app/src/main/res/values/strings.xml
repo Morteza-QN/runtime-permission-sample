@@ -4,4 +4,9 @@
     <string name="dialog_permission_title">Permission required</string>
     <string name="dialog_permission_default_message">Default message</string>
     <string name="dialog_permission_button_positive">OK</string>
+
+    <string name="permission_alert">Permission needed!</string>
+    <string name="goto_setting_and_permission">Application can not work without permissions. Please enable it from settings.</string>
+    <string name="str_settings">Setting</string>
+    <string name="str_cancel">Cancel</string>
 </resources>
